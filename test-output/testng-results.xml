@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-03T20:33:25 IST" name="Default suite" finished-at="2021-06-03T20:34:18 IST" duration-ms="52338">
+    <groups>
+    </groups>
+    <test started-at="2021-06-03T20:33:25 IST" name="Default test" finished-at="2021-06-03T20:34:18 IST" duration-ms="52338">
+      <class name="donateNowCheck.ImpactGuruRunner">
+        <test-method is-config="true" signature="setup()[pri:0, instance:donateNowCheck.ImpactGuruRunner@51dcb805]" started-at="2021-06-03T20:33:25 IST" name="setup" finished-at="2021-06-03T20:33:29 IST" duration-ms="3088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="impactGuruLogin()[pri:0, instance:donateNowCheck.ImpactGuruRunner@51dcb805]" started-at="2021-06-03T20:33:29 IST" name="impactGuruLogin" finished-at="2021-06-03T20:34:17 IST" duration-ms="48381" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- impactGuruLogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:donateNowCheck.ImpactGuruRunner@51dcb805]" started-at="2021-06-03T20:34:17 IST" name="teardown" finished-at="2021-06-03T20:34:18 IST" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- donateNowCheck.ImpactGuruRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
